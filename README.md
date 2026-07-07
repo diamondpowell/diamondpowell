@@ -28,6 +28,13 @@ If you’re also learning cloud or SRE, I hope something here saves you a few ho
     - Observability<br>
     - Python<br>
     - Distributed Systems<br> 
+🌱 **Current Focus**
+
+- ☸️ CKAD
+- ☁️ Azure Kubernetes Service (AKS)
+- 📊 KQL & Observability
+- 🐍 Python
+- 🏗️ Distributed Systems
 📫 How to reach me: <br>
 
 
