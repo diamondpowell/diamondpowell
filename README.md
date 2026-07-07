@@ -21,21 +21,7 @@ If you’re also learning cloud or SRE, I hope something here saves you a few ho
 <br> 
 ☕ Outside of work you’ll usually find me reading, experimenting with new technologies, or teaching myself something I probably didn’t need to learn.<br> 
 🧩 Favorite way to learn: break it, fix it, document it.<br> 
-🌱 **Current Focus:<br>**
-      - KCNA<br>
-    - AKS<br>
-    - KQL<br>
-    - Observability<br>
-    - Python<br>
-    - Distributed Systems<br> 
-🌱 **Current Focus**
-
-- ☸️ CKAD
-- ☁️ Azure Kubernetes Service (AKS)
-- 📊 KQL & Observability
-- 🐍 Python
-- 🏗️ Distributed Systems
-- 🎯 Current focus: CKAD • Kubernetes • Azure • KQL • Python
+🌱 **Current Focus:** KCNA • Kubernetes • Azure • KQL • Python<br>
 📫 How to reach me: <br>
 
 
