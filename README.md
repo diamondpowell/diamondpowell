@@ -11,7 +11,9 @@ I’m a Software Engineer focused on Site Reliability Engineering who loves lear
 
 I’m fascinated by cloud infrastructure, Kubernetes, distributed systems, and reliability. I enjoy taking complicated engineering topics, experimenting with them, breaking them, rebuilding them, and sharing what I learn along the way.
 
-My GitHub is my engineering notebook: a place for practice, labs, experiments, and projects as I continue growing.
+I believe growth should be visible. You’ll find practice repositories, labs, experiments, and projects here because I learn by building and by sharing what works…. and what doesn’t.
+
+If you’re also learning cloud or SRE, I hope something here saves you a few hours or gives you the confidence to keep going.
 <br>   
 
 🔭 *Catch me on my blog*:
