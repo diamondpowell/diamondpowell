@@ -7,7 +7,11 @@
 
 
 ### <h1>Hi there  👋🏾, I'm Diamond.</h1>
-I'm a Software Engineer with a focus on Site Reliability Engineering. I am passionate about showing how fun the world of SRE is and getting more people interested. I abaolutely love open source tenchologies and building a community. Some technologies that spark my interest is cloud, quantum, blockchain, and virtual reality. My hope is that someone finds my craziness and deems it useful in their journey. I am learning outloud, making mistakes publicly, and sharing my journey in real time. From marketing assistant to apprentice to site reliability engineer. Lets keep building those knowledge blocks :)
+I’m a Software Engineer focused on Site Reliability Engineering who loves learning in public. My journey into tech wasn’t traditional, and that’s part of why I enjoy documenting what I’m learning—it reminds me that everyone starts somewhere.
+
+I’m fascinated by cloud infrastructure, Kubernetes, distributed systems, and reliability. I enjoy taking complicated engineering topics, experimenting with them, breaking them, rebuilding them, and sharing what I learn along the way.
+
+My GitHub is my engineering notebook: a place for practice, labs, experiments, and projects as I continue growing.
 <br>   
 
 🔭 *Catch me on my blog*:
