@@ -35,6 +35,7 @@ If you’re also learning cloud or SRE, I hope something here saves you a few ho
 - 📊 KQL & Observability
 - 🐍 Python
 - 🏗️ Distributed Systems
+- 🎯 Current focus: CKAD • Kubernetes • Azure • KQL • Python
 📫 How to reach me: <br>
 
 
