@@ -19,9 +19,15 @@ If you’re also learning cloud or SRE, I hope something here saves you a few ho
 🔭 *Catch me on my blog*:
 [![Stream Badge](https://img.shields.io/badge/-EngineeredCurlz-white?style=flat&logo=data.ai&logoColor=darkviolet)](https://engineeredcurlz.com/)
 <br> 
-* ☕ Outside of work you’ll usually find me reading, experimenting with new technologies, or teaching myself something I probably didn’t need to learn.<br> 
-* 🌱 Currently exploring Kubernetes, Azure, KQL, and distributed systems.<br> 
-* 🧩 I enjoy taking complex systems apart just to understand how they work.<br> 
+☕ Outside of work you’ll usually find me reading, experimenting with new technologies, or teaching myself something I probably didn’t need to learn.<br> 
+🧩 Favorite way to learn: break it, fix it, document it.<br> 
+🌱 **Current Focus:<br>**
+      - KCNA<br>
+    - AKS<br>
+    - KQL<br>
+    - Observability<br>
+    - Python<br>
+    - Distributed Systems<br> 
 📫 How to reach me: <br>
 
 
@@ -32,8 +38,13 @@ If you’re also learning cloud or SRE, I hope something here saves you a few ho
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=engineeredcurlz) -->
 
 ---
-### 👓 Some things I know: <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+### 👓 Tech Stack: <p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/maskati/azure-icons/blob/main/svg/Microsoft_Azure_Kusto/KustoCluster.svg" title="Kusto" alt="Kusto" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" title="RedHat" alt="Redhat" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
