@@ -20,6 +20,9 @@ My GitHub is my engineering notebook: a place for practice, labs, experiments, a
 🌻 Topics i'm exploring: Kubernetes <br> 
 💛 she/her <br>
 🦋 Fun fact: I am currently on a "clarity" & "self-care" journey.<br> 
+☕ Outside of work you’ll usually find me reading, experimenting with new technologies, or teaching myself something I probably didn’t need to learn.
+🌱 Currently exploring Kubernetes, Azure, KQL, and distributed systems.
+🧩 I enjoy taking complex systems apart just to understand how they work.
 📫 How to reach me: <br>
 
 
